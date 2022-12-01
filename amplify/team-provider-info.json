@@ -10,6 +10,11 @@
       "StackName": "amplify-brianamplify-dev-212328",
       "StackId": "arn:aws:cloudformation:us-east-1:473840100237:stack/amplify-brianamplify-dev-212328/2256c470-711f-11ed-b56c-0ef4d44c02c3",
       "AmplifyAppId": "d27q2aovdmz0u9"
+    },
+    "categories": {
+      "api": {
+        "brianamplify": {}
+      }
     }
   }
 }
