@@ -17,6 +17,12 @@
       },
       "auth": {
         "brianamplify298e4b13": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d27q2aovdmz0u9",
+          "type": "cicd"
+        }
       }
     }
   }
